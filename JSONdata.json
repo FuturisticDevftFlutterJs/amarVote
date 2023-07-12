@@ -27,153 +27,32 @@
         }
     ],
     "news": [
-        {
-            "id": 1,
-            "title": "নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের",
-            "subtitle": "প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা।...",
-            "link": "https://www.bbc.com/bengali/articles/cmmy4412mvyo",
-            "img": "/news/news_img.jpg"
+        {"id": 10,
+        "title": "সুষ্ঠু নির্বাচনের জন্য প্রস্তুত নির্বাচন কমিশন। ",
+        "subtitle": "ভোটার উপস্থিতি যাই হোক, সুষ্ঠু ভোটে নজর : নির্বাচন কমিশন...",
+        "link": "/updates/10",
+        "para_1": "ভোটার উপস্থিতি যাই হোক, সুষ্ঠু ভোটে নজর : নির্বাচন কমিশন ভোটের দিন সকালে কেন্দ্রে কেন্দ্রে পাঠানো হবে ব্যালট পেপার। আচরণবিধি লঙ্ঘন: আওয়ামী লীগ ও জাতীয় পার্টির প্রার্থীকে একবার করে সতর্ক করা হয়েছে আইনশৃঙ্খলা রক্ষায় একক দায়িত্ব চান ডিএমপি কমিশনার",
+        "para_2": "নির্বাচন কমিশনের নেয়া সিদ্ধান্তসমূহ",
+        "para_3": "(ক) চেকপোস্ট স্থাপন : নির্বাচনী এলাকার প্রবেশপথে এবং গুরুত্বপূর্ণ স্থানগুলোতে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর চেকপোস্ট বসাতে হবে। নির্বাচন শেষ না হওয়া পর্যন্ত চেকপোস্টগুলো সার্বক্ষণিকভাবে চালু থাকবে। (খ) মহিলা, শারীরিক প্রতিবন্ধী ও হিজড়া ভোটাররা যাতে নিরাপদে, নির্বিঘ্নে ও স্বাচ্ছন্দ্যে ভোটাধিকার প্রয়োগ করতে পারেন, সে লক্ষ্যে কর্তব্যরত আইনশৃঙ্খলা রক্ষাকারী বাহিনীগুলো প্রয়োজনীয় আইনানুগ সহায়তা প্রদান করবে। (গ) ভোটকেন্দ্রে মালামাল পৌঁছানো : ভোটগ্রহণের আগের দিন মালামাল বিতরণ কেন্দ্র থেকে নিরাপত্তা সহকারে ও সুশৃঙ্খলভাবে ভোটকেন্দ্রে নির্বাচনী দ্রব্যাদি পৌঁছানোর বিষয়ে নির্বাচনী এলাকায় নিয়োজিত আইনশৃঙ্খলা বাহিনী বিশেষ ব্যবস্থা গ্রহণ করবে। ওই সময় এবং ভোটগ্রহণের দিন ভোটকেন্দ্রে দায়িত্ব পালনের জন্য নিয়োজিত কর্মকর্তা/ব্যক্তিদের যাতায়াতের লক্ষ্যে সংশ্লিষ্ট মহাসড়কে যানজট নিরসনে প্রয়োজনীয় ব্যবস্থা গ্রহণ করতে হবে। এ বিষয়ে পুলিশ কর্তৃপক্ষ সার্বিক সহায়তা ও নিরাপত্তা প্রদান নিশ্চিত করবেন। (ঘ) ঢাকা সেনানিবাস এলাকায় অবস্থিত ভোটকেন্দ্রে দায়িত্বপালন সংক্রান্ত নির্দেশনা : এই নির্বাচনে ঢাকা সেনানিবাস এলাকায় অবস্থিত ৩০টি ভোটকেন্দ্রে ভোটগ্রহণের আগের দিন ও ভোটগ্রহণের দিন নির্বাচনী সামগ্রীসহ ভোটগ্রহণকারী কর্মকর্তা ও আইনশৃঙ্খলা রক্ষাকারী বাহিনী (অস্ত্রসহ) সেনানিবাসের আওতাধীন এলাকায় স্থাপিত নির্ধারিত ভোটকেন্দ্রে যাতায়াত করবেন এবং ভোটকেন্দ্রে অবস্থান করবেন। সেই সঙ্গে মোবাইল টিম ও স্ট্রাইকিং ফোর্সের সদস্যদেরকেও ওই দিনগুলোতে সেনানিবাস এলাকায় যাতায়াতের প্রয়োজন হবে বিধায় নির্বাচনী কার্যক্রমে সার্বিক সহযোগিতার জন্য কমিশন সচিবালয় থেকে সশস্ত্র বাহিনী বিভাগে পত্র প্রদান করতে হবে। (ঙ) নির্বাচনি প্রচারণার ওপর নিষেধাজ্ঞা আরোপ : গণপ্রতিনিধিত্ব আদেশ, ১৯৭২ এ অনুচ্ছেদ ৭৮ অনুসারে ভোটগ্রহণ শুরুর ৪৮ ঘণ্টা আগে থেকে ভোটগ্রহণ শেষ হওয়ার পরবর্তী ৪৮ ঘণ্টা সময়ের মধ্যে অর্থাৎ ১৫ জুলাই সকাল ৯টা থেকে ১৯ জুলাই বিকেল ৫টা পর্যন্ত কোনো নির্বাচনী এলাকায় যেকোনো ধরনের সভা সমাবেশ ও মিছিল, শোভাযাত্রা করা যাবে না। এ বিষয়ে রিটার্নিং অফিসার স্থানীয়ভাবে ব্যাপক প্রচারের মাধ্যমে প্রয়োজনীয় ব্যবস্থা গ্রহণ করবেন।",
+        "para_4": "পর্যবেক্ষণ করবে ৩ সংস্থা ঢাকা-১৭ আসনে নির্বাচন পর্যবেক্ষণের জন্য নির্বাচন কমিশনে নিবন্ধিত স্থানীয় পর্যবেক্ষক সংস্থা জাতীয় নির্বাচন পর্যবেক্ষণ পরিষদ (জানিপপ), সার্ক মানবাধিকার ফাউন্ডেশন এবং যুব উন্নয়ন সংস্থাকে অনুমোদন দিয়েছে নির্বাচন কমিশন। ৭ জন করে মোট ২১ জন নির্বাচনের দিন পর্যবেক্ষণের সুযোগ পাবেন। স্থানীয় পর্যবেক্ষকদের পরিচয়পত্র সংশ্লিষ্ট রিটার্নিং ও সহকারী রিটার্নিং অফিসারের কার্যালয় থেকে সংগ্রহ করতে হবে।",
+        
+            "img": "https://i.pinimg.com/564x/6b/89/32/6b8932a9dec0e8ca4f92beb18002176e.jpg"
         },
         {
             "id": 100,
-            "title": "নির্বাচন নিয়ে সন্দিহান যুক্তরাষ্ট্র, মার্কিন পররাষ্ট্র মন্ত্রী",
-            "subtitle": "প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা।...",
+            "title": "Demonstration Alert – U.S. Embassy Dhaka, Bangladesh (July 11, 2023)",
+            "subtitle": "Location:  Dhaka, other cities across Bangladesh...",
             "link": "/updates/100",
-            "para_1": "দৈনিক সমকালের প্রথম পাতার খবর, “নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের”। প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা। গতকাল বাংলাদেশ সফরে এসেছে ইউরোপীয় ইউনিয়নের একটি প্রাক-নির্বাচনী প্রতিনিধি দল।",
-            "para_2": "দৈনিক সমকালের প্রথম পাতার খবর, “নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের”। প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা। গতকাল বাংলাদেশ সফরে এসেছে ইউরোপীয় ইউনিয়নের একটি প্রাক-নির্বাচনী প্রতিনিধি দল।",
-            "para_3": "দৈনিক সমকালের প্রথম পাতার খবর, “নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের”। প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা। গতকাল বাংলাদেশ সফরে এসেছে ইউরোপীয় ইউনিয়নের একটি প্রাক-নির্বাচনী প্রতিনিধি দল।",
-            "para_4": "দৈনিক সমকালের প্রথম পাতার খবর, “নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের”। প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা। গতকাল বাংলাদেশ সফরে এসেছে ইউরোপীয় ইউনিয়নের একটি প্রাক-নির্বাচনী প্রতিনিধি দল।",
-            "img": "/news/news_img1.jpg"
-        },
-        {
-            "id": 1,
-            "title": "নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের",
-            "subtitle": "প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা।...",
-            "link": "https://www.bbc.com/bengali/articles/cmmy4412mvyo",
-            "img": "/news/news_img.jpg"
-        },
-        {
-            "id": 1,
-            "title": "নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের",
-            "subtitle": "প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা।...",
-            "link": "https://www.bbc.com/bengali/articles/cmmy4412mvyo",
-            "img": "/news/news_img.jpg"
-        },
-        {
-            "id": 1,
-            "title": "নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের",
-            "subtitle": "প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা।...",
-            "link": "https://www.bbc.com/bengali/articles/cmmy4412mvyo",
-            "img": "/news/news_img.jpg"
-        },
-        {
-            "id": 1,
-            "title": "নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের",
-            "subtitle": "প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা।...",
-            "link": "https://www.bbc.com/bengali/articles/cmmy4412mvyo",
-            "img": "/news/news_img.jpg"
-        },
-        {
-            "id": 1,
-            "title": "নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের",
-            "subtitle": "প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা।...",
-            "link": "https://www.bbc.com/bengali/articles/cmmy4412mvyo",
-            "img": "/news/news_img.jpg"
-        },
-        {
-            "id": 1,
-            "title": "নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের",
-            "subtitle": "প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা।...",
-            "link": "https://www.bbc.com/bengali/articles/cmmy4412mvyo",
-            "img": "/news/news_img.jpg"
-        },
-        {
-            "id": 1,
-            "title": "নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের",
-            "subtitle": "প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা।...",
-            "link": "https://www.bbc.com/bengali/articles/cmmy4412mvyo",
-            "img": "/news/news_img.jpg"
-        },
-        {
-            "id": 1,
-            "title": "নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের",
-            "subtitle": "প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা।...",
-            "link": "https://www.bbc.com/bengali/articles/cmmy4412mvyo",
-            "img": "/news/news_img.jpg"
-        },
-        {
-            "id": 1,
-            "title": "নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের",
-            "subtitle": "প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা।...",
-            "link": "https://www.bbc.com/bengali/articles/cmmy4412mvyo",
-            "img": "/news/news_img.jpg"
-        },
-        {
-            "id": 1,
-            "title": "নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের",
-            "subtitle": "প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা।...",
-            "link": "https://www.bbc.com/bengali/articles/cmmy4412mvyo",
-            "img": "/news/news_img.jpg"
-        },
-        {
-            "id": 1,
-            "title": "নির্বাচন বাংলাদেশের, দৌড়ঝাঁপ বিদেশিদের",
-            "subtitle": "প্রতিবেদনে বলা হচ্ছে, এবারও বাংলাদেশের নির্বাচন ঘিরে চলছে বিদেশি কূটনীতিকদের নানা তৎপরতা।...",
-            "link": "https://www.bbc.com/bengali/articles/cmmy4412mvyo",
-            "img": "/news/news_img.jpg"
+            "para_1": "Event:  The next general election is anticipated to occur before or during January 2024, and political party rallies and other election-related activities have already commenced.  Political rallies and demonstrations may be held with increasing frequency or intensity as the general election draws nearer.",
+            "para_2": "U.S. citizens should practice vigilance and remember that demonstrations intended to be peaceful can turn confrontational and escalate into violence.  You should avoid demonstrations and exercise caution in the vicinity of any large gatherings.  Review personal security plans; remain aware of your surroundings, including local events; and monitor local news stations for updates.",
+            "para_3": "Actions to Take: Avoid large crowds and protests Be aware of your surroundings at all times Monitor local news Remain vigilant Always carry your charged mobile phone for emergency communications Consular Assistance:",
+            "para_4": "U.S. Embassy Dhaka, Bangladesh – (88) 02 5566 2000 DhakaACS@state.gov State Department, Consular Affairs – (888) 407-4747 or (202) 501-444 Bangladesh Country Information Enroll in Smart Traveler Enrollment Program (STEP) to receive security updates Follow us on Facebook and Twitter",
+            "img": "https://i.pinimg.com/564x/da/2b/a6/da2ba68fe7a6955b6387af264069c875.jpg"
         }
     ],
     "videos": [
         {
             "id": 1,
-            "title": "This is the title",
-            "subtitle": "This is a subtitle",
-            "embed": "https://www.youtube.com/embed/--ziadeWcvQ"
-        },
-        {
-            "id": 1,
-            "title": "This is the title",
-            "subtitle": "This is a subtitle",
-            "embed": "https://www.youtube.com/embed/UkwTRmkBjZw"
-        },
-        {
-            "id": 1,
-            "title": "This is the title",
-            "subtitle": "This is a subtitle",
-            "embed": "https://www.youtube.com/embed/--ziadeWcvQ"
-        },
-        {
-            "id": 1,
-            "title": "This is the title",
-            "subtitle": "This is a subtitle",
-            "embed": "https://www.youtube.com/embed/UkwTRmkBjZw"
-        },
-        {
-            "id": 6,
-            "title": "This is the title",
-            "subtitle": "This is a subtitle",
-            "embed": "https://www.youtube.com/embed/ySoEE4FhBOA"
-        },
-        {
-            "id": 5,
-            "title": "This is the title",
-            "subtitle": "This is a subtitle",
-            "embed": "https://www.youtube.com/embed/UkwTRmkBjZw"
-        },
-        {
-            "id": 4,
-            "title": "This is the title",
-            "subtitle": "This is a subtitle",
-            "embed": "https://www.youtube.com/embed/--ziadeWcvQ"
-        },
-        {
-            "id": 3,
-            "title": "This is the title",
-            "subtitle": "This is a subtitle",
-            "embed": "https://www.youtube.com/embed/ySoEE4FhBOA"
-        },
-        {
-            "id": 2,
             "title": "This is the title",
             "subtitle": "This is a subtitle",
             "embed": "https://www.youtube.com/embed/--ziadeWcvQ"
