@@ -215,6 +215,21 @@
             "edu": "বি.এসসি.",
             "income_source": "",
             "net_worth": ""
+        },
+        {
+            "id": 3,
+            "name": "কাজী মো. রাশিদুল হাসান",
+            "party": "জাকের পার্টি",
+            "symbol": "https://i.pinimg.com/564x/f4/2c/02/f42c023a41628b7c915415178c50cc34.jpg",
+            "img": "https://i.pinimg.com/564x/19/c5/13/19c513876251ea540240947e9e1d1f11.jpg",
+            "name_en": "Kazi Md. Rashidul Hassan",
+            "father_name": "মৃত কাজী মো. নাসির উল্লাহ",
+            "mother_name": "মৃত রোকেয়া পারভীন",
+            "birth_date": "৩০ জুন ১৯৮২",
+            "address": "বাড়ি ৫, ব্লক এ, রোড ১৮, ডাকঘর বনানী ১২১৩",
+            "edu": "এমএ",
+            "income_source": "জমি বিক্রয় ও ব্যবসা",
+            "net_worth": ""
         }
         
         
