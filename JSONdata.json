@@ -26,8 +26,7 @@
             "address": "বাসা -৫৬/২, রাস্তা - মাটিকাটা সড়ক, মাটিকাটা, ডাকঘর - ঢাকা ক্যান্টনমেন্ট -১২০৬, ক্যান্টনমেন্ট, ঢাকা উত্তর সিটি কর্পোরেশন, ঢাকা।"
         }
     ],
-    "newsfc" : [],
-    "news": [
+    "newsfc" : [
         {"id": 10,
         "title": "সুষ্ঠু নির্বাচনের জন্য প্রস্তুত নির্বাচন কমিশন। ",
         "subtitle": "ভোটার উপস্থিতি যাই হোক, সুষ্ঠু ভোটে নজর : নির্বাচন কমিশন...",
@@ -38,7 +37,10 @@
         "para_4": "পর্যবেক্ষণ করবে ৩ সংস্থা ঢাকা-১৭ আসনে নির্বাচন পর্যবেক্ষণের জন্য নির্বাচন কমিশনে নিবন্ধিত স্থানীয় পর্যবেক্ষক সংস্থা জাতীয় নির্বাচন পর্যবেক্ষণ পরিষদ (জানিপপ), সার্ক মানবাধিকার ফাউন্ডেশন এবং যুব উন্নয়ন সংস্থাকে অনুমোদন দিয়েছে নির্বাচন কমিশন। ৭ জন করে মোট ২১ জন নির্বাচনের দিন পর্যবেক্ষণের সুযোগ পাবেন। স্থানীয় পর্যবেক্ষকদের পরিচয়পত্র সংশ্লিষ্ট রিটার্নিং ও সহকারী রিটার্নিং অফিসারের কার্যালয় থেকে সংগ্রহ করতে হবে।",
         
             "img": "https://i.pinimg.com/564x/6b/89/32/6b8932a9dec0e8ca4f92beb18002176e.jpg"
-        },
+        }
+    ],
+    "news": [
+        
         {
             "id": 100,
             "title": "Demonstration Alert – U.S. Embassy Dhaka, Bangladesh (July 11, 2023)",
@@ -70,7 +72,7 @@
             "id": 1,
             "name": "সিকদার আনিসুর রহমান",
             "party": "বাংলাদেশ জাতীয় পার্টি",
-            "symbol": "/images/bnp.png",
+            "symbol": "https://i.pinimg.com/564x/73/2d/f5/732df52a6eda17bdbd7b32ba6f98f217.jpg",
             "img": "https://i.pinimg.com/564x/11/b5/f4/11b5f4d5ff1e9b00e079583341f1a635.jpg",
             "name_en": "Major Sikder Anisur Rahman (Retd.)",
             "father_name": "সিকদার হাবিবুর রহমান(মরহুম)",
@@ -99,8 +101,8 @@
             "id": 3,
             "name": "মোহাম্মদ আলী আরাফাত",
             "party": "আওয়ামী লীগ",
-            "symbol": "/images/Awami_League.jpg",
-            "img": "https://i.pinimg.com/564x/81/3b/a4/813ba413b735ccde1bc10e4464834b30.jpg",
+            "symbol": "https://i.pinimg.com/564x/61/57/9b/61579b9f28da496bc16c925570ceebe5.jpg",
+            "img": "https://i.pinimg.com/564x/99/d1/01/99d10134b12c607d1c7f7450e09d9bfb.jpg",
             "name_en": "Mohammad Ali Arafat",
             "father_name": "মোহাম্মদ সেতাব উদ্দিন ",
             "mother_name": "হাবিবুন নিসা",
@@ -114,7 +116,7 @@
             "id": 4,
             "name": "শেখ হাবিবুর রহমান",
             "party": "তৃণমূল বিএনপি",
-            "symbol": "/images/bnp.png",
+            "symbol": "https://i.pinimg.com/564x/93/45/79/9345792a923898a8d205beca88eae055.jpg",
             "img": "https://i.pinimg.com/564x/bf/98/a3/bf98a3735c29595cc98bfa16b4fdc702.jpg",
             "name_en": "Sk Habibur Rahman",
             "father_name": "শেখ সামসুর রহমান",
@@ -129,7 +131,7 @@
             "id": 5,
             "name": "মোঃ তারেকুল ইসলাম ভূঞাঁ",
             "party": "স্বতন্ত্র",
-            "symbol": "/images/bnp.png",
+            "symbol": "https://i.pinimg.com/564x/90/96/d4/9096d4260b88139385be2e4254713aa8.jpg",
             "img": "https://i.pinimg.com/564x/d6/9f/45/d69f45ba201cd1e47ef1b02d84034018.jpg",
             "name_en": "Sk Habibur Rahman",
             "father_name": "মো. হাবিবুর রহমান ভূঞাঁ",
@@ -144,8 +146,8 @@
             "id": 6,
             "name": "মোঃ রেজাউল ইসলাম স্বপন",
             "party": "বাংলাদেশ কংগ্রেস",
-            "symbol": "/images/bnp.png",
-            "img": "",
+            "symbol": "https://i.pinimg.com/564x/85/af/9f/85af9f1df039731d63c71847cd6f7f2a.jpg",
+            "img": "https://i.pinimg.com/564x/1e/1d/23/1e1d237071dd7a17c7a466d56b8bc4c2.jpg",
             "name_en": "Md. Rezaul Islam Swapon",
             "father_name": "মো. এম এ হামিদ সরকার",
             "mother_name": "মোছা. পতেজা বেগম",
@@ -158,7 +160,7 @@
             "id": 7,
             "name": "মোঃ আকতার হোসেন",
             "party": "বাংলাদেশ সাংস্কৃতিক মুক্তিজোট (মুক্তিজোট)",
-            "symbol": "/images/bnp.png",
+            "symbol": "https://i.pinimg.com/564x/e3/cf/f3/e3cff39428353e58698df9e408f6b34b.jpg",
             "img": "https://i.pinimg.com/564x/fb/21/1f/fb211f7662428b3730f55c77a0cd448b.jpg",
             "name_en": "",
             "father_name": "মো. আব্দুর রহিম (মরহুম)",
@@ -173,8 +175,8 @@
             "id": 8,
             "name": "মোঃ আশরাফুল হোসেন আলম",
             "party": "স্বতন্ত্র",
-            "symbol": "/images/bnp.png",
-            "img": "",
+            "symbol": "https://i.pinimg.com/564x/9e/65/27/9e65272a636099b49052cc9a41ec64e8.jpg",
+            "img": "https://i.pinimg.com/564x/73/5c/e6/735ce6626c1af551797e7e65bbd2fef2.jpg",
             "name_en": "",
             "father_name": "মো. আহাম্মাদ আলী প্রামাণিক",
             "mother_name": "মোছা. মনোয়ারা বেগম",
