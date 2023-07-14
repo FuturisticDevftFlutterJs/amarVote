@@ -22,8 +22,53 @@
         }
     ],
     "news": [
-        
-       
+        {
+            "id": 14,
+            "title": "Dhaka-17 by-polls: Boat race organized as election campaign for Arafat",
+            "subtitle": "The boat race was organized at the capital’s Banani Lake",
+            "link": "/updates/14",
+            "para_1": "A boat race was organized as an election campaign for Awami League's nominated MP candidate for the Dhaka-17 constituency, Professor Mohammad A Arafat. The boat race was organized at the capital's Banani Lake on Thursday. Dhaka north city Awami League leaders including its President Bazlur Rahman, Vice President Walkil Uddin, General Secretary SA Mannan Kachi, Publicity Secretary Azizul Huq Rana and others conducted an election campaign. The by-polls to the Dhaka-17 constituency will be held on July 17 through ballot papers.Prof Mohammad Ali Arafat is an academic, political analyst, and commentator, as well as the founding convener and current chairman of Suchinta Foundation, a Bangladeshi non-profit think tank and research centre. He is also a member of the Awami League's Central Working Committee and is set to contest the Dhaka-17 by-polls on the ruling party ticket, with the “Boat” symbol.",
+            "para_2": "",
+            "para_3": "",
+            "para_4": "",
+            
+            "img": "https://i.pinimg.com/564x/4f/ae/f4/4faef46872d2df0906fb10297bd9b03d.jpg"
+        },
+        {
+            "id": 11,
+            "title": "১৭ জুলাই নির্বাচনী এলাকায় সাধারণ ছুটি",
+            "subtitle": "",
+            "link": "/updates/11",
+            "para_1": "আগামী ১৭ জুলাই ঢাকা-১৭ শূন্য আসনে নির্বাচন উপলক্ষে নির্বাচনী এলাকায় সাধারণ ছুটি ঘোষণা করেছে জনপ্রশাসন মন্ত্রণালয়। নির্বাচন কমিশনের চাহিদা মোতাবেক এই ছুটি দেয়া হয়েছে বলে জনপ্রশাসন মন্ত্রণালয়ের এক প্রজ্ঞাপনে জানানো হয়।",
+            "para_2": "",
+            "para_3": "",
+            "para_4": "",
+            
+            "img": "https://i.pinimg.com/564x/01/f8/f8/01f8f82bf0cb42814f2e3d899b59bc65.jpg"
+        },  {
+            "id": 12,
+            "title": "বন্ধ থাকবে ব্যাংক",
+            "subtitle": "",
+            "link": "/updates/12",
+            "para_1": "ঢাকা-১৭ সংসদীয় আসনের উপ-নির্বাচনের কারণে নির্বাচনী এলাকায় সব তফসিলি ব্যাংকের শাখা বন্ধ থাকবে। তবে ঢাকা-১৭ নির্বাচনী এলাকায় অবস্থিত ব্যাংকের প্রধান কার্যালয়ে অত্যাবশ্যকীয় বিভাগসমূহ সীমিত পরিসরে খোলা থাকবে। এ ব্যাপারে নির্দেশনা জারি করেছে বাংলাদেশ ব্যাংক।",
+            "para_2": "",
+            "para_3": "",
+            "para_4": "",
+            
+            "img": "https://i.pinimg.com/564x/d0/c5/03/d0c503436c1983d585f5429d3cd6b870.jpg"
+        },
+        {
+            "id": 13,
+            "title": "নিরাপত্তা চৌকি স্থাপনে ইসির নির্দেশনা",
+            "subtitle": "",
+            "link": "/updates/13",
+            "para_1": "ঢাকা ১৭ আসনের উপ-নির্বাচনের শান্তিপূর্ণ পরিবেশ নিশ্চিত করার জন্য গুরুত্বপূর্ণ স্থানে নিরাপত্তা চৌকি (চেকপোস্ট) স্থাপনের জন্য আইন-শৃঙ্খলা রক্ষাকারী বাহিনীগুলোকে নির্দেশনা দিয়েছে নির্বাচন কমিশন। প্রধান নির্বাচন কমিশনার কাজী হাবিবুল আউয়াল স্বাক্ষরিত নির্দেশনাটি এরইমধ্যে স্বরাষ্ট্র মন্ত্রণালয়সহ সংশ্লিষ্ট সব কর্তৃপক্ষকে পাঠানো হয়েছে। এতে লেখা হয়েছে, নির্বাচনী এলাকার প্রবেশ পথে এবং গুরুত্বপূর্ণ স্থানসমূহে আইনশৃঙ্খলা রক্ষাকারী বাহিনীর চেকপোস্ট বসাতে হবে। নির্বাচন শেষ না হওয়া পর্যন্ত চেকপোস্টগুলো সার্বক্ষণিকভাবে চালু থাকবে।",
+            "para_2": "",
+            "para_3": "",
+            "para_4": "",
+            
+            "img": "https://i.pinimg.com/564x/c0/86/c0/c086c0e18d2208ba206a3e23a47b13b5.jpg"
+        },
         {
             "id": 2,
             "title": "ঢাকা-১৭ নির্বাচনী এলাকা",
