@@ -897,20 +897,19 @@
        },{
             "id": 1,
             "name": " মো. সামসুল আলম ",
-            "party": "বাংলাদেশ জাতীয় পার্টি",
+            "party": "বাংলাদেশ জাতীয় পার্টি",=
             "symbol": "https://i.pinimg.com/564x/73/2d/f5/732df52a6eda17bdbd7b32ba6f98f217.jpg",
-            "img":<iframe src="https://assets.pinterest.com/ext/embed.html?id=139048707237187116" height="336" width="236" frameborder="0" scrolling="no" ></iframe> "https://i.pinimg.com/564x/11/b5/f4/11b5f4d5ff1e9b00e079583341f1a635.jpg",
-            "name_en": "Major Sikder Anisur
- Rahman (Retd.)",
+            "img":   "https://i.pinimg.com/750x/80/14/58/801458a3825ff9bd10614a93c110e15c.jpg",
+            "name_en": "Major Sikder Anisur Rahman (Ret)",
             "father_name": "মরহুম আলহাজ্ব এম রাজা মিয়া।",
             "mother_name": "রওশন আরা বেগম",
             "birth_date": "২০-০১-১৯৬৮ইং।",
             "address": "খোদেজা মন্জিল (৬ষ্ঠ তলা), প্রানহরিদাশ রোড, সরাই পাড়া, পাহাড়তলী, চট্টগ্রাম। ",
             "edu": "এইচএসসি। ",
-            "income_source": "",
+            "income_source": "busiess",
             "net_worth": "আয়কর রিটার্নে প্রদর্শিত মোট আয়: ১,২০,১৮৩ টাকা",
             "tax":"সর্বশেষ বার্ষিক আয়কর পরিশোধ: ০০ টাকা"
+	    "politacl views":"আপনি কেন এই সংসদ আসনে নির্বাচন করছেন? সাবেক রাষ্ট্রপতি হুসেইন মুহম্মদ এরশাদের স্বর্ন যুগ ফিরিয়ে আনতে। আপনি নির্বাচিত হলে এলাকায় কি কি অবদান রাখতে চান? (১) পন্য সামগ্রিই দাম কমানো। (২) জলবদ্ধতা নিরসন। আপনি রাজনীতিতে আগ্রহী হলেন কিভাবে? জাতীয় পার্টির প্রতিষ্ঠা লগ্ন থেকে।
         }
-        
     ]
 }
